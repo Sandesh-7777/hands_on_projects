@@ -1,0 +1,3 @@
+Present Value = ₹10000.0
+Growth Rate = 13.0%
+Future Value after 5 years = ₹18424.351792999987
