@@ -1,0 +1,6 @@
+Opening Word doc
+Opening PDF
+Opening Excel
+Saving as .docx
+Saving as .pdf
+Saving as .xlsx
