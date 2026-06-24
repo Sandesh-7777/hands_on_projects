@@ -1,0 +1,25 @@
+Reminder: Loan 101 for Ramesh is due on 04-JUL-2026
+
+Reminder: Loan 102 for Suresh is due on 09-JUL-2026
+
+Reminder: Loan 103 for Anita is due on 14-JUL-2026
+
+Reminder: Loan 104 for Priya is due on 19-JUL-2026
+
+Reminder: Loan 105 for Rajesh is due on 22-JUL-2026
+
+Reminder: Loan 106 for Kiran is due on 29-JUN-2026
+
+Reminder: Loan 107 for Sunita is due on 06-JUL-2026
+
+Reminder: Loan 108 for Vijay is due on 12-JUL-2026
+
+Reminder: Loan 109 for Deepa is due on 16-JUL-2026
+
+Reminder: Loan 110 for Arjun is due on 24-JUL-2026
+
+
+
+
+
+PL/SQL procedure successfully completed.

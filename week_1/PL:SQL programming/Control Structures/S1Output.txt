@@ -1,0 +1,23 @@
+Discount applied for Customer ID: 1
+
+Discount applied for Customer ID: 3
+
+Discount applied for Customer ID: 5
+
+Discount applied for Customer ID: 7
+
+Discount applied for Customer ID: 9
+
+Discount applied for Customer ID: 12
+
+Discount applied for Customer ID: 15
+
+Discount applied for Customer ID: 18
+
+Discount applied for Customer ID: 21
+
+
+
+
+
+PL/SQL procedure successfully completed.
