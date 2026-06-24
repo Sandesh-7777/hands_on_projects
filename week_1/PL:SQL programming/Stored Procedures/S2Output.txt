@@ -1,0 +1,37 @@
+Script Output
+Procedure UPDATEEMPLOYEEBONUS compiled
+
+
+Bonus updated for department: IT
+
+
+
+PL/SQL procedure successfully completed.
+
+Query Result
+EMPLOYEEID|NAME|POSITION|SALARY|DEPARTMENT|HIREDATE
+1|Alice|Manager|70000|HR|15-JUN-15
+2|Bob|Developer|66000|IT|20-MAR-17
+3|Charlie|Developer|71500|IT|12-APR-18
+4|David|Analyst|55000|Finance|18-MAY-19
+5|Eva|Executive|50000|Sales|10-JAN-20
+6|Frank|Manager|88000|IT|11-AUG-14
+7|Grace|Analyst|52000|Finance|14-FEB-21
+8|Helen|Executive|48000|Marketing|15-MAR-22
+9|Ian|Developer|68200|IT|20-SEP-18
+10|Jack|Manager|75000|Sales|07-JUL-16
+11|Kevin|Developer|63800|IT|05-OCT-20
+12|Laura|HR Executive|51000|HR|11-NOV-19
+13|Mike|Analyst|56000|Finance|01-DEC-17
+14|Nina|Executive|49000|Marketing|19-JAN-21
+15|Oscar|Developer|70400|IT|30-JUN-18
+16|Peter|Manager|82000|Finance|05-MAY-13
+17|Queen|Executive|47000|Sales|08-AUG-22
+18|Ryan|Developer|67100|IT|09-APR-19
+19|Sophia|HR Executive|53000|HR|12-DEC-20
+20|Tom|Analyst|54000|Finance|15-SEP-21
+21|Uma|Executive|46000|Marketing|10-OCT-22
+22|Victor|Developer|73700|IT|11-NOV-16
+23|Wendy|Manager|78000|HR|01-JAN-15
+24|Xavier|Executive|52000|Sales|07-JUL-21
+25|Yash|Developer|69300|IT|02-FEB-18
