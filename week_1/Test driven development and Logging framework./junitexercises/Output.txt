@@ -1,0 +1,59 @@
+JUnit Testing Exercises - Output
+
+Exercise 1: Setting Up JUnit
+
+Output:
+
+Running CalculatorTest
+
+testAdd()       PASSED
+testSubtract()  PASSED
+
+Tests run: 2
+Failures: 0
+Errors: 0
+
+BUILD SUCCESS
+
+Observation:
+JUnit was successfully configured in the Maven project. The test cases executed successfully and produced the expected results.
+
+Exercise 3: Assertions in JUnit
+
+Output:
+
+Running AssertionsTest
+
+assertEquals()   PASSED
+assertTrue()     PASSED
+assertFalse()    PASSED
+assertNull()     PASSED
+assertNotNull()  PASSED
+
+Tests run: 1
+Failures: 0
+Errors: 0
+
+BUILD SUCCESS
+
+Observation:
+Different JUnit assertion methods were tested successfully. All assertions returned the expected results.
+
+Exercise 4: Arrange-Act-Assert (AAA) Pattern, Setup and Teardown
+
+Output:
+
+Running CalculatorAAATest
+
+Setup executed
+testMultiply() PASSED
+Teardown executed
+
+Tests run: 1
+Failures: 0
+Errors: 0
+
+BUILD SUCCESS
+
+Observation:
+The test followed the Arrange-Act-Assert pattern. The @Before method executed before the test case and the @After method executed after the test case. The expected result was obtained successfully.
