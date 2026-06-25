@@ -1,0 +1,17 @@
+Exercise 1: Logging Error Messages and Warning Levels
+
+Output:
+--------------------------------------------------
+
+ERROR LoggingExample - This is an error message
+
+WARN LoggingExample - This is a warning message
+
+--------------------------------------------------
+
+Observation:
+1. SLF4J was configured successfully.
+2. ERROR level message was logged successfully.
+3. WARN level message was logged successfully.
+4. Logging framework helps track application events and issues.
+
