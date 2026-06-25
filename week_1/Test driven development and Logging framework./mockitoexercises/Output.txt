@@ -1,0 +1,39 @@
+Exercise 1: Mocking and Stubbing
+
+Output:
+
+Mock object created successfully.
+
+Stubbed Method:
+getData() -> "Mock Data"
+
+Expected Result:
+Mock Data
+
+Tests run: 1
+Failures: 0
+Errors: 0
+
+BUILD SUCCESS
+
+Exercise 2: Verifying Interactions
+
+Output:
+
+Method Called:
+getData()
+
+Verification:
+verify(mockApi).getData()
+
+Result:
+Interaction Verified Successfully
+
+Tests run: 1
+Failures: 0
+Errors: 0
+
+BUILD SUCCESS
+
+Conclusion:
+Mockito mock objects were created successfully. Method stubbing and interaction verification were performed successfully and all test cases passed.
