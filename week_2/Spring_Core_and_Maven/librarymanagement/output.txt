@@ -1,0 +1,27 @@
+Exercise 1 Output
+
+Spring Context Loaded Successfully
+
+Observation:
+The Spring IoC container loaded successfully and the beans were created from the XML configuration.
+
+Exercise 2 Output
+
+Book Repository Called
+
+Observation:
+Setter Dependency Injection was implemented successfully. The BookRepository bean was injected into the BookService bean through the Spring IoC container.
+
+Exercise 4 Output
+
+Maven project created successfully.
+
+Spring Context dependency added.
+Spring AOP dependency added.
+Spring WebMVC dependency added.
+Maven Compiler Plugin configured successfully.
+
+BUILD SUCCESS
+
+Observation:
+The Maven project was configured successfully with the required Spring dependencies and compiler plugin.
