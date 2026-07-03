@@ -12,6 +12,10 @@
     <bean id="bookService"
           class="com.library.service.BookService">
 
+        <!-- Constructor Injection -->
+        <constructor-arg ref="bookRepository"/>
+
+        <!-- Setter Injection -->
         <property name="repository"
                   ref="bookRepository"/>
 

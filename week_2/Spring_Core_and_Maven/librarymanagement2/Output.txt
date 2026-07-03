@@ -1,0 +1,20 @@
+Exercise 9: Creating a Spring Boot Application
+
+Output:
+Spring Boot application started successfully.
+
+Tomcat started on port 8080.
+
+Book REST API created successfully.
+
+GET /books
+Returns the list of books.
+
+POST /books
+Adds a new book to the H2 database.
+
+---
+
+
+Result:
+BUILD SUCCESS

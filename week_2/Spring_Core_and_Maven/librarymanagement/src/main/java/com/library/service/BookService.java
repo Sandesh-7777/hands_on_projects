@@ -6,6 +6,12 @@ public class BookService {
 
     private BookRepository repository;
 
+    // Constructor Injection
+    public BookService(BookRepository repository) {
+        this.repository = repository;
+    }
+
+    // Setter Injection
     public void setRepository(BookRepository repository) {
         this.repository = repository;
     }

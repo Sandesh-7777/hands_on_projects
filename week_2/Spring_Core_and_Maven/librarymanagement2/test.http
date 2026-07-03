@@ -1,0 +1,25 @@
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+    "title": "Spring Boot Fundamentals"
+}
+
+###
+GET http://localhost:8080/books
+
+###
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+    "title": "Java Programming"
+}
+
+###
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+    "title": "Spring Framework"
+}

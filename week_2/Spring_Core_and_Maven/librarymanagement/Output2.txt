@@ -1,0 +1,22 @@
+Exercise 5: Configuring the Spring IoC Container
+
+Output:
+Book Repository Called
+
+Observation:
+The Spring IoC container successfully created the BookRepository and BookService beans. Setter-based dependency injection worked correctly.
+
+Result:
+Program executed successfully.
+
+Exercise 7: Constructor and Setter Injection
+
+Output:
+
+Book Repository Called
+
+Observation:
+Constructor injection and setter injection were configured successfully through the Spring XML configuration. The BookRepository dependency was injected into the BookService bean and the application executed successfully.
+
+Result:
+BUILD SUCCESS
