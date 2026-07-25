@@ -1,0 +1,3 @@
+Welcome to Git Hands-On Lab
+
+Learning Git is fun!
